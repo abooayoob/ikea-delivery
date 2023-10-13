@@ -7,7 +7,7 @@ const data = [
     title: "SKÅRER",
     description: "Rammemadrass",
     image:
-      "https://www.ikea.com/no/no/images/products/skarer-rammemadrass-medium-mork-beige__0395534_pe562568_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/skarer-rammemadrass-medium-mork-beige__0395534_pe562568_s3.jpg",
     amount: 3,
   },
   {
@@ -15,7 +15,7 @@ const data = [
     title: "HASVIK",
     description: "Skyvedører Par",
     image:
-      "https://www.ikea.com/no/no/images/products/hasvik-skyvedorer-par-beige__1190198_pe900137_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/hasvik-skyvedorer-par-beige__1190198_pe900137_s3.jpg",
     amount: 1,
   },
   {
@@ -23,7 +23,7 @@ const data = [
     title: "PAX",
     description: "Garderobeskapstamme",
     image:
-      "https://www.ikea.com/no/no/images/products/pax-garderobeskapstamme-hvitbeiset-eikemonster__0721071_pe733037_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/pax-garderobeskapstamme-hvitbeiset-eikemonster__0721071_pe733037_s3.jpg",
     amount: 1,
   },
   {
@@ -31,7 +31,7 @@ const data = [
     title: "PAX",
     description: "Garderobeskapstamme",
     image:
-      "https://www.ikea.com/no/no/images/products/pax-garderobeskapstamme-beige__1014795_pe835716_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/pax-garderobeskapstamme-beige__1014795_pe835716_s3.jpg",
     amount: 1,
   },
   {
@@ -39,7 +39,7 @@ const data = [
     title: "KALLAX",
     description: "Hylle",
     image:
-      "https://www.ikea.com/no/no/images/products/kallax-hylle-hvitbeiset-eikemonster__0459244_pe606045_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/kallax-hylle-hvitbeiset-eikemonster__0459244_pe606045_s3.jpg",
     amount: 1,
   },
   {
@@ -47,7 +47,7 @@ const data = [
     title: "PAX",
     description: "Garderobeskapstamme",
     image:
-      "https://www.ikea.com/no/no/images/products/pax-garderobeskapstamme-beige__1014805_pe835726_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/pax-garderobeskapstamme-beige__1014805_pe835726_s3.jpg",
     amount: 2,
   },
   {
@@ -55,7 +55,7 @@ const data = [
     title: "BESTÅ",
     description: "Veggmontert Skapkombinasjon",
     image:
-      "https://www.ikea.com/no/no/images/products/besta-veggmontert-skapkombinasjon-hvit-lappviken-hvit__1053807_pe847238_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/besta-veggmontert-skapkombinasjon-hvit-lappviken-hvit__1053807_pe847238_s3.jpg",
     amount: 3,
   },
   {
@@ -63,7 +63,7 @@ const data = [
     title: "BESTÅ",
     description: "Stamme",
     image:
-      "https://www.ikea.com/no/no/images/products/besta-stamme-hvit__0376961_pe513559_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/besta-stamme-hvit__0376961_pe513559_s3.jpg",
     amount: 3,
   },
   {
@@ -71,7 +71,7 @@ const data = [
     title: "BESTÅ",
     description: "Stamme",
     image:
-      "https://www.ikea.com/no/no/images/products/besta-stamme-hvit__0376961_pe513559_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/besta-stamme-hvit__0376961_pe513559_s3.jpg",
     amount: 3,
   },
   {
@@ -79,7 +79,7 @@ const data = [
     title: "LAPPVIKEN",
     description: "Dør",
     image:
-      "https://www.ikea.com/no/no/images/products/lappviken-dor-hvit__0375438_pe553115_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/lappviken-dor-hvit__0375438_pe553115_s3.jpg",
     amount: 3,
   },
   {
@@ -87,7 +87,7 @@ const data = [
     title: "BESTÅ",
     description: "Hengsel, Myktlukkende/Trykk-Åpne",
     image:
-      "https://www.ikea.com/no/no/images/products/besta-hengsel-myktlukkende-trykk-apne__0626848_pe693026_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/besta-hengsel-myktlukkende-trykk-apne__0626848_pe693026_s3.jpg",
     amount: 3,
   },
   {
@@ -95,7 +95,7 @@ const data = [
     title: "BESTÅ",
     description: "Hylleplate",
     image:
-      "https://www.ikea.com/no/no/images/products/besta-hylleplate-hvit__1012652_pe828947_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/besta-hylleplate-hvit__1012652_pe828947_s3.jpg",
     amount: 3,
   },
   {
@@ -103,7 +103,7 @@ const data = [
     title: "BESTÅ",
     description: "Veggskinne",
     image:
-      "https://www.ikea.com/no/no/images/products/besta-veggskinne-solvfarget__0981312_pe815324_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/besta-veggskinne-solvfarget__0981312_pe815324_s3.jpg",
     amount: 3,
   },
   {
@@ -111,7 +111,7 @@ const data = [
     title: "HORNNES",
     description: "Overmadrass",
     image:
-      "https://www.ikea.com/no/no/images/products/hornnes-overmadrass-hvit__1090690_pe862152_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/hornnes-overmadrass-hvit__1090690_pe862152_s3.jpg",
     amount: 3,
   },
   {
@@ -119,7 +119,7 @@ const data = [
     title: "NYMÅNE",
     description: "Takspotlight Med 4 Spotter",
     image:
-      "https://www.ikea.com/no/no/images/products/nymane-takspotlight-med-4-spotter-hvit__0607350_pe682899_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/nymane-takspotlight-med-4-spotter-hvit__0607350_pe682899_s3.jpg",
     amount: 1,
   },
   {
@@ -127,7 +127,7 @@ const data = [
     title: "NYMÅNE",
     description: "Takspotlight Med 4 Spotter",
     image:
-      "https://www.ikea.com/no/no/images/products/nymane-takspotlight-med-4-spotter-antrasitt__0646789_pe704306_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/nymane-takspotlight-med-4-spotter-antrasitt__0646789_pe704306_s3.jpg",
     amount: 1,
   },
   {
@@ -135,7 +135,7 @@ const data = [
     title: "PÅHL",
     description: "Arbeidsbord",
     image:
-      "https://www.ikea.com/no/no/images/products/pahl-arbeidsbord-hvit-turkis__1031726_pe836636_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/pahl-arbeidsbord-hvit-turkis__1031726_pe836636_s3.jpg",
     amount: 1,
   },
   {
@@ -143,7 +143,7 @@ const data = [
     title: "PÅHL",
     description: "Bordplate",
     image:
-      "https://www.ikea.com/no/no/images/products/pahl-bordplate-hvit__0734894_pe739640_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/pahl-bordplate-hvit__0734894_pe739640_s3.jpg",
     amount: 1,
   },
   {
@@ -151,7 +151,7 @@ const data = [
     title: "PÅHL",
     description: "Bordplate",
     image:
-      "https://www.ikea.com/no/no/images/products/pahl-bordplate-hvit__0734894_pe739640_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/pahl-bordplate-hvit__0734894_pe739640_s3.jpg",
     amount: 1,
   },
   {
@@ -159,7 +159,7 @@ const data = [
     title: "PÅHL",
     description: "Understell For Bordplate",
     image:
-      "https://www.ikea.com/no/no/images/products/pahl-understell-for-bordplate-turkis__1014069_pe833005_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/pahl-understell-for-bordplate-turkis__1014069_pe833005_s3.jpg",
     amount: 1,
   },
   {
@@ -167,7 +167,7 @@ const data = [
     title: "DIRIGERA",
     description: "Smart Hub",
     image:
-      "https://www.ikea.com/no/no/images/products/dirigera-smart-hub-hvit-smart__1032017_pe836737_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/dirigera-smart-hub-hvit-smart__1032017_pe836737_s3.jpg",
     amount: 1,
   },
   {
@@ -175,7 +175,7 @@ const data = [
     title: "ELDBERGET / MALSKÄR",
     description: "Arbeidsstol",
     image:
-      "https://www.ikea.com/no/no/images/products/eldberget-malskaer-arbeidsstol-mork-gra-svart__0814559_pe772629_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/eldberget-malskaer-arbeidsstol-mork-gra-svart__0814559_pe772629_s3.jpg",
     amount: 2,
   },
   {
@@ -183,7 +183,7 @@ const data = [
     title: "MALSKÄR",
     description: "Understell Arbeidsstol",
     image:
-      "https://www.ikea.com/no/no/images/products/malskaer-understell-arbeidsstol-svart__0814477_pe778669_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/malskaer-understell-arbeidsstol-svart__0814477_pe778669_s3.jpg",
     amount: 2,
   },
   {
@@ -191,7 +191,7 @@ const data = [
     title: "MALSKÄR",
     description: "Understell Arbeidsstol",
     image:
-      "https://www.ikea.com/no/no/images/products/malskaer-understell-arbeidsstol-svart__0814477_pe778669_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/malskaer-understell-arbeidsstol-svart__0814477_pe778669_s3.jpg",
     amount: 2,
   },
   {
@@ -199,7 +199,7 @@ const data = [
     title: "KALLAX",
     description: "Hylle",
     image:
-      "https://www.ikea.com/no/no/images/products/kallax-hylle-hvitbeiset-eikemonster__0459248_pe606048_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/kallax-hylle-hvitbeiset-eikemonster__0459248_pe606048_s3.jpg",
     amount: 1,
   },
   {
@@ -207,7 +207,7 @@ const data = [
     title: "TROTTEN",
     description: "Bordplate",
     image:
-      "https://www.ikea.com/no/no/images/products/trotten-bordplate-beige__1009436_pe827597_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/trotten-bordplate-beige__1009436_pe827597_s3.jpg",
     amount: 2,
   },
   {
@@ -215,7 +215,7 @@ const data = [
     title: "TRÅDFRI",
     description: "Fjernkontrollsett",
     image:
-      "https://www.ikea.com/no/no/images/products/tradfri-fjernkontrollsett-smart-kan-dimmes-tradlost-varmhvit-til-kaldhvit__1008883_pe827360_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/tradfri-fjernkontrollsett-smart-kan-dimmes-tradlost-varmhvit-til-kaldhvit__1008883_pe827360_s3.jpg",
     amount: 5,
   },
   {
@@ -223,7 +223,7 @@ const data = [
     title: "LOBERGET / SIBBEN",
     description: "Barnekontorstol Med Pute",
     image:
-      "https://www.ikea.com/no/no/images/products/loberget-sibben-barnekontorstol-med-pute-hvit-turkis__1154436_pe886029_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/loberget-sibben-barnekontorstol-med-pute-hvit-turkis__1154436_pe886029_s3.jpg",
     amount: 1,
   },
   {
@@ -231,7 +231,7 @@ const data = [
     title: "LOBERGET",
     description: "Sete Til Juniorstol",
     image:
-      "https://www.ikea.com/no/no/images/products/loberget-sete-til-juniorstol-hvit__0795190_pe765900_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/loberget-sete-til-juniorstol-hvit__0795190_pe765900_s3.jpg",
     amount: 1,
   },
   {
@@ -239,7 +239,7 @@ const data = [
     title: "LOBERGET",
     description: "Sete Til Juniorstol",
     image:
-      "https://www.ikea.com/no/no/images/products/loberget-sete-til-juniorstol-hvit__0795190_pe765900_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/loberget-sete-til-juniorstol-hvit__0795190_pe765900_s3.jpg",
     amount: 1,
   },
   {
@@ -247,7 +247,7 @@ const data = [
     title: "SIBBEN",
     description: "Understell Til Svingbar Ungdomsstol",
     image:
-      "https://www.ikea.com/no/no/images/products/sibben-understell-til-svingbar-ungdomsstol__0795186_pe765898_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/sibben-understell-til-svingbar-ungdomsstol__0795186_pe765898_s3.jpg",
     amount: 1,
   },
   {
@@ -255,7 +255,7 @@ const data = [
     title: "PYNTEN",
     description: "Sitteunderlag Barneskrivebordsstol",
     image:
-      "https://www.ikea.com/no/no/images/products/pynten-sitteunderlag-barneskrivebordsstol-turkis__1151599_pe884957_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/pynten-sitteunderlag-barneskrivebordsstol-turkis__1151599_pe884957_s3.jpg",
     amount: 1,
   },
   {
@@ -263,7 +263,7 @@ const data = [
     title: "TJUSIG",
     description: "Skohylle",
     image:
-      "https://www.ikea.com/no/no/images/products/tjusig-skohylle-svart__0710715_pe727750_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/tjusig-skohylle-svart__0710715_pe727750_s3.jpg",
     amount: 1,
   },
   {
@@ -271,7 +271,7 @@ const data = [
     title: "BERGSBO",
     description: "Dør",
     image:
-      "https://www.ikea.com/no/no/images/products/bergsbo-dor-beige__1022276_pe833706_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/bergsbo-dor-beige__1022276_pe833706_s3.jpg",
     amount: 2,
   },
   {
@@ -279,7 +279,7 @@ const data = [
     title: "TJUSIG",
     description: "Hattehylle",
     image:
-      "https://www.ikea.com/no/no/images/products/tjusig-hattehylle-svart__0710697_pe727727_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/tjusig-hattehylle-svart__0710697_pe727727_s3.jpg",
     amount: 1,
   },
   {
@@ -287,7 +287,7 @@ const data = [
     title: "FREDVANG",
     description: "Sengeskuff/Nattbord",
     image:
-      "https://www.ikea.com/no/no/images/products/fredvang-sengeskuff-nattbord-hvit__0962752_pe808963_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/fredvang-sengeskuff-nattbord-hvit__0962752_pe808963_s3.jpg",
     amount: 2,
   },
   {
@@ -295,7 +295,7 @@ const data = [
     title: "KOMPLEMENT",
     description: "Skuff",
     image:
-      "https://www.ikea.com/no/no/images/products/komplement-skuff-beige__1134540_pe878799_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/komplement-skuff-beige__1134540_pe878799_s3.jpg",
     amount: 4,
   },
   {
@@ -303,7 +303,7 @@ const data = [
     title: "KOMPLEMENT",
     description: "Skuff",
     image:
-      "https://www.ikea.com/no/no/images/products/komplement-skuff-hvitbeiset-eikemonster__1106560_pe868778_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/komplement-skuff-hvitbeiset-eikemonster__1106560_pe868778_s3.jpg",
     amount: 4,
   },
   {
@@ -311,7 +311,7 @@ const data = [
     title: "VARDÖ",
     description: "Sengeskuff",
     image:
-      "https://www.ikea.com/no/no/images/products/vardoe-sengeskuff-svart__0636228_pe697741_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/vardoe-sengeskuff-svart__0636228_pe697741_s3.jpg",
     amount: 2,
   },
   {
@@ -319,7 +319,7 @@ const data = [
     title: "BEKVÄM",
     description: "Trappestige",
     image:
-      "https://www.ikea.com/no/no/images/products/bekvaem-trappestige-svart__0122139_pe278504_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/bekvaem-trappestige-svart__0122139_pe278504_s3.jpg",
     amount: 1,
   },
   {
@@ -327,7 +327,7 @@ const data = [
     title: "KOMPLEMENT",
     description: "Skuff",
     image:
-      "https://www.ikea.com/no/no/images/products/komplement-skuff-beige__1135200_pe878931_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/komplement-skuff-beige__1135200_pe878931_s3.jpg",
     amount: 7,
   },
   {
@@ -335,7 +335,7 @@ const data = [
     title: "BJORLI",
     description: "Ben",
     image:
-      "https://www.ikea.com/no/no/images/products/bjorli-ben-rustfritt-stal__0636194_pe697722_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/bjorli-ben-rustfritt-stal__0636194_pe697722_s3.jpg",
     amount: 3,
   },
   {
@@ -343,7 +343,7 @@ const data = [
     title: "KALLAX",
     description: "Understell",
     image:
-      "https://www.ikea.com/no/no/images/products/kallax-understell-svart__1028806_pe835538_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/kallax-understell-svart__1028806_pe835538_s3.jpg",
     amount: 1,
   },
   {
@@ -351,7 +351,7 @@ const data = [
     title: "NORDMÄRKE",
     description: "Bærbar Trådløs Lader",
     image:
-      "https://www.ikea.com/no/no/images/products/nordmaerke-baerbar-tradlos-lader__0934507_pe792426_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/nordmaerke-baerbar-tradlos-lader__0934507_pe792426_s3.jpg",
     amount: 1,
   },
   {
@@ -359,7 +359,7 @@ const data = [
     title: "KNIPSA",
     description: "Kurv",
     image:
-      "https://www.ikea.com/no/no/images/products/knipsa-kurv-siv__0713061_pe729165_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/knipsa-kurv-siv__0713061_pe729165_s3.jpg",
     amount: 4,
   },
   {
@@ -367,7 +367,7 @@ const data = [
     title: "KOMPLEMENT",
     description: "Hengsler Med Dørdemper",
     image:
-      "https://www.ikea.com/no/no/images/products/komplement-hengsler-med-dordemper__0626637_pe692929_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/komplement-hengsler-med-dordemper__0626637_pe692929_s3.jpg",
     amount: 4,
   },
   {
@@ -375,7 +375,7 @@ const data = [
     title: "PURRPINGLA",
     description: "Skittentøysekk",
     image:
-      "https://www.ikea.com/no/no/images/products/purrpingla-skittentoysekk-beige__0954079_pe803161_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/purrpingla-skittentoysekk-beige__0954079_pe803161_s3.jpg",
     amount: 2,
   },
   {
@@ -383,7 +383,7 @@ const data = [
     title: "HÅRTE",
     description: "LED Arbeidslampe",
     image:
-      "https://www.ikea.com/no/no/images/products/harte-led-arbeidslampe-svart-solvfarget__0683780_pe720869_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/harte-led-arbeidslampe-svart-solvfarget__0683780_pe720869_s3.jpg",
     amount: 3,
   },
   {
@@ -391,7 +391,7 @@ const data = [
     title: "OLOV",
     description: "Ben, Justerbart",
     image:
-      "https://www.ikea.com/no/no/images/products/olov-ben-justerbart-svart__0734628_pe739547_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/olov-ben-justerbart-svart__0734628_pe739547_s3.jpg",
     amount: 8,
   },
   {
@@ -399,7 +399,7 @@ const data = [
     title: "KOMPLEMENT",
     description: "Hylleplate",
     image:
-      "https://www.ikea.com/no/no/images/products/komplement-hylleplate-hvitbeiset-eikemonster__0721153_pe733083_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/komplement-hylleplate-hvitbeiset-eikemonster__0721153_pe733083_s3.jpg",
     amount: 2,
   },
   {
@@ -407,7 +407,7 @@ const data = [
     title: "KOMPLEMENT",
     description: "Hylleplate",
     image:
-      "https://www.ikea.com/no/no/images/products/komplement-hylleplate-beige__1014779_pe835704_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/komplement-hylleplate-beige__1014779_pe835704_s3.jpg",
     amount: 3,
   },
   {
@@ -415,7 +415,7 @@ const data = [
     title: "KOMPLEMENT",
     description: "Hylleplate",
     image:
-      "https://www.ikea.com/no/no/images/products/komplement-hylleplate-beige__1014785_pe835710_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/komplement-hylleplate-beige__1014785_pe835710_s3.jpg",
     amount: 6,
   },
   {
@@ -423,7 +423,7 @@ const data = [
     title: "PYNTEN",
     description: "Sitteunderlag",
     image:
-      "https://www.ikea.com/no/no/images/products/pynten-sitteunderlag-mork-gra__0805853_pe769702_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/pynten-sitteunderlag-mork-gra__0805853_pe769702_s3.jpg",
     amount: 2,
   },
   {
@@ -431,7 +431,7 @@ const data = [
     title: "BILLSBRO",
     description: "Håndtak",
     image:
-      "https://www.ikea.com/no/no/images/products/billsbro-handtak-rustfritt-stalfarge__0754294_pe747875_s1.jpg",
+      "https://www.ikea.com/no/no/images/products/billsbro-handtak-rustfritt-stalfarge__0754294_pe747875_s3.jpg",
     amount: 2,
   },
 ];
